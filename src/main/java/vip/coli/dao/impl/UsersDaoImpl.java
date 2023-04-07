@@ -8,7 +8,7 @@ import java.awt.*;
 
 /**
  * @author coli
- * @data 2023/4/5
+ * @date 2023/4/5
  */
 public class UsersDaoImpl implements UsersDao {
     private JdbcTemplate jdbcTemplate;
